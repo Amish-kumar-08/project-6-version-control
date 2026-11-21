@@ -1,4 +1,4 @@
-# Updated AWS EC2 Web Server Deployment using Terraform For PR Request
+# Updated AWS EC2 Web Server Deployment using Terraform For PR Request (Task 6)
 
 ## Project Overview
 
