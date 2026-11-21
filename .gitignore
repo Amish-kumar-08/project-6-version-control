@@ -1,0 +1,15 @@
+
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfplan
+terraform.tfstate.backup
+crash.log
+trust-policy.json
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform.lock.hcl.backup
+crash.log
